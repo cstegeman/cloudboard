@@ -2174,5 +2174,111 @@
         "title": "Freak out!"
       }
     ]
+  },
+  {
+    "name": "new-kids-turbo",
+    "title": "New kids turbo",
+    "sounds": [
+      {
+        "name": "bam-2",
+        "title": "Bam"
+      },
+      {
+        "name": "bam",
+        "title": "Bam"
+      },
+      {
+        "name": "domme-kut",
+        "title": "Domme kut!"
+      },
+      {
+        "name": "gij-bent-ontslage-kut",
+        "title": "Gij bent ontslage kut!"
+      },
+      {
+        "name": "god-nondeju-2",
+        "title": "God nondeju!"
+      },
+      {
+        "name": "god-nondeju",
+        "title": "God nondeju!"
+      },
+      {
+        "name": "he-heee",
+        "title": "He heee"
+      },
+      {
+        "name": "he-kutwout",
+        "title": "Hé-kutwout"
+      },
+      {
+        "name": "hedde-gij-goed-gedaan-kut",
+        "title": "Hedde gij goed gedaan kut"
+      },
+      {
+        "name": "homo-wouteh",
+        "title": "Homo wouteh"
+      },
+      {
+        "name": "kut-2",
+        "title": "Kut"
+      },
+      {
+        "name": "kut",
+        "title": "Kut"
+      },
+      {
+        "name": "met-zn-blije-bakkes",
+        "title": "Met z'n blije bakkes"
+      },
+      {
+        "name": "nergens-meer-voor-betalen",
+        "title": "Nergens meer voor betalen"
+      },
+      {
+        "name": "nie",
+        "title": "Nie?"
+      },
+      {
+        "name": "niedan",
+        "title": "Niedan?"
+      },
+      {
+        "name": "ofnie",
+        "title": "Ofnie?"
+      },
+      {
+        "name": "ons-meer-geld-geve-kut",
+        "title": "Ons meer geld geve kut"
+      },
+      {
+        "name": "verrekte-koekwous",
+        "title": "Verrekte koekwous"
+      },
+      {
+        "name": "verrekte-kutwout",
+        "title": "Verrekte kutwout"
+      },
+      {
+        "name": "verrekte-mongol",
+        "title": "Verrekte mongol"
+      },
+      {
+        "name": "wat-een-homo-joh",
+        "title": "Wat een homo joh"
+      },
+      {
+        "name": "wha",
+        "title": "Wha?"
+      },
+      {
+        "name": "zo-die-is-kapot",
+        "title": "Zo die is kapot"
+      },
+      {
+        "name": "zon-grote-vuurbal-jongu",
+        "title": "Zo'n grote vuurbal jongu"
+      }
+    ]
   }
 ]
